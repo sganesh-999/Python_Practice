@@ -1,3 +1,4 @@
+#check wheter 2 strings are buddy strings
 s = "abbc"
 goal = "abbc"
 
